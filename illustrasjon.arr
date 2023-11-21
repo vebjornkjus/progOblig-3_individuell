@@ -1,0 +1,12 @@
+overlay(rectangle(50, 50, "solid", "aqua"),
+  overlay(rectangle(100, 100, "solid", "orchid"),
+    overlay(rectangle(150, 150, "solid", "dodger-blue"),
+      overlay(rectangle(200, 200, "solid", "red"),
+        overlay(rectangle(250, 250, "solid", "indigo"),
+          overlay(rectangle(300, 300, "solid", "yellow"),
+            overlay(rectangle(350, 350, "solid", "hot-pink"),
+              overlay(rectangle(400, 400, "solid", "crimson"),
+                overlay(rectangle(450, 450, "solid", "orange"),
+                  overlay(rectangle(500, 500, "solid", "purple"),
+                    overlay(rectangle(185, 185, "solid", "dark blue"),
+                      rectangle(200, 200, "solid", "green"))))))))))))
